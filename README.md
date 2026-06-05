@@ -2,6 +2,10 @@
 
 A browser-based memory game inspired by the classic Simon Says challenge, built using HTML, CSS and JavaScript.
 
+## Live Demo
+
+[Play the Game](https://riyatanwar794.github.io/simon-says-game/)
+
 ## Features
 
 - Random sequence generation
