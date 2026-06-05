@@ -4,7 +4,7 @@ A browser-based memory game inspired by the classic Simon Says challenge, built 
 
 ## Live Demo
 
-[Play the Game](https://riyatanwar794.github.io/simon-says-game/)
+🎮[Play the Game](https://riyatanwar794.github.io/simon-says-game/)
 
 ## Features
 
@@ -13,7 +13,7 @@ A browser-based memory game inspired by the classic Simon Says challenge, built 
 - Score tracking
 - Game over detection
 
-## Technologies Used
+## Tech Stack
 
 - HTML
 - CSS
